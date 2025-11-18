@@ -78,4 +78,4 @@
 
 ### RoadMap: Передача ставок в кол-центр
 
-![Roadmap_6_months](RoadMap_6_months.png)
+![Roadmap_6_months](RoadMap_6_Months.png)
